@@ -3,6 +3,7 @@ table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
     text-align: center;
+    color: white;
   }
   th, td {
     padding: 5px;
@@ -13,3 +14,39 @@ table, th, td {
 nav {
     text-align: center;
 }
+
+body {
+    background-color: rgb(45, 51, 49);
+}
+
+h1 {
+    color: white;
+}
+a {
+    color: white;
+
+}
+ul.horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li.nav {
+    float: left;
+  }
+  
+  li.nav a.nav {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li.nav a.nav:hover {
+    background-color: #111;
+  }
