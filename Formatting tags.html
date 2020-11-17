@@ -1,0 +1,215 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Formatting tags</title>
+    </head>
+
+<body>
+    <table border="1">
+        <thead align="center">
+            <td>Tag</td>
+            <td>Description</td>
+            <td>Example</td>
+        </thead>
+        <tr>
+            <td>&lt;abbr&gt;</td>
+            <td>Defines an abbreviated form of a longer word or phrase.</td>
+            <td>Used to to show the longer version of an abbreviated word when hovering over it. <br/>
+            such as&lt;abbr title="Hyper Text Markup Language"&gt;<abbr title="Hyper Text Markup Language">HTML</abbr>&lt;/abbr&gt;
+            </td>
+        </tr>
+        <tr>
+            <td>&lt;address&gt;</td>
+            <td>Specifies the author's contact information.</td>
+            <td>This tag does the same effect as &lt;i&gt; or &lt;em&gt; but it conveys additional semantic information</td>
+        </tr>
+        <tr>
+            <td>&lt;b&gt;</td>
+            <td>Displays text in a bold style.</td>
+            <td>Makes text like this &lt;b&gt;<b>bold</b>&lt;/b&gt;</td>
+        </tr>
+        <tr>
+            <td>&lt;bdi&gt;</td>
+            <td>Represents text that is isolated from its surrounding for the purposes of bidirectional text formatting.</td>
+            <td>Used to display that text that is normally right to left is going left to right, such as arabic</td>
+        </tr>
+        <tr>
+            <td>&lt;bdo&gt;</td>
+            <td>Overrides the current text direction.</td>
+            <td>The sequence "1-2-3-4-5" was reversed as: <bdo dir="rtl">1-2-3-4-5</bdo></td>
+        </tr>
+        <tr>
+            <td>&lt;blockquote&gt;</td>
+            <td>Represents a section that is quoted from another source.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>&lt;cite&gt;</td>
+            <td>Indicates a citation or reference to another source.</td>
+            <td>Used to tag text as a &lt;cite&gt;<cite>citation</cite>&lt;/cite&gt;, normally rendered in italics but can be changed with <abbrv title="cascading style sheet">CSS</abbrv></td>
+        </tr>
+        <tr>
+            <td>&lt;code&gt;</td>
+            <td>Specifies text as computer code.</td>
+            <td><p>Regular text. <code>computer code</code> Regular text.</p>
+            the pre tag is commonly used to contain this text to preserve whitespace and linebreaks
+            </td>
+        </tr>
+        <tr>
+            <td>&lt;data&gt;</td>
+            <td>Links a piece of content with a machine-readable translation.</td>
+            <td>such as:&lt;data value="204"&gt;Green Tea&lt;/data&gt;</td>
+        </tr>
+        <tr>
+            <td>&lt;del&gt;</td>
+            <td>Represents text that has been deleted from the document.</td>
+            <td>It normally does this by showing a line through the text but you can change this in CSS using <code>text-decoration</code></td>
+        </tr>
+        <tr>
+            <td>&lt;dfn&gt;</td>
+            <td>Specifies a definition.</td>
+            <td>Used to show that a word is being defined such as: <br/>
+                The &lt;dfn title="Hyper Text Markup Language"&gt;<dfn title="Hyper Text Markup Language">HTML</dfn>&lt;/dfn&gt; is the publishing language of the World Wide Web.</td>
+        </tr>
+        <tr>
+            <td>&lt;em&gt;</td>
+            <td>Defines emphasized text.</td>
+            <td>This is an &lt;em&gt;<em>important point</em>&lt;/em&gt; to consider.</td>
+        </tr>
+        <tr>
+            <td>&lt;i&gt;</td>
+            <td>Displays text in an italic style.</td>
+            <td>&lt;i&gt;<i>Such as this</i>&lt;/i&gt;</td>
+        </tr>
+        <tr>
+            <td>&lt;ins&gt;</td>
+            <td>Defines a block of text that has been inserted into a document.</td>
+            <td>Underlines the text to show that it was &lt;ins&gt;<ins>inserted</ins>&lt;/ins&gt;</td>
+        </tr>
+        <tr>
+            <td>&lt;kbd&gt;</td>
+            <td>Specifies text as keyboard input.</td>
+            <td>This is used in things such as forms to indicate what should be input by the user<br/>
+            such as: Please, input "&lt;kbd&gt;<kbd>Yes</kbd>&lt;/kbd&gt;" or "&lt;kbd&gt;<kbd>No</kbd>&lt;/kbd&gt;"</td>
+        </tr>
+        <tr>
+            <td>&lt;mark&gt;</td>
+            <td>Represents text highlighted for reference purposes.</td>
+            <td>Highlights text <mark>like this</mark></td>
+        </tr>
+        <tr>
+            <td>&lt;output&gt;</td>
+            <td>Represents the result of a calculation.</td>
+            <td>used to mark the result of a calculation such as one using javascript</td>
+        </tr>
+        <tr>
+            <td>&lt;pre&gt;</td>
+            <td>Defines a block of preformatted text.</td>
+            <td>Used to keep the fomatting of text as browsers typically ignore it when interpreting a HTML file
+                <pre>
+                    The pre
+                        element preserves      spaces,
+                            line-breaks, tabs...
+                    </pre>
+            </td>
+        </tr>
+        <tr>
+            <td>&lt;progress&gt;</td>
+            <td>Represents the completion progress of a task.</td>
+            <td>Progress: &lt;progress id="bar" value="0" max="100"&gt;&lt;pspan&gt;0&lt;p/span&gt;%&lt;progress&gt; <br/>
+                Progress: <progress id="bar" value="0" max="100"><span>0</span>%</progress></td>
+        </tr>
+        <tr>
+            <td>&lt;q&gt;</td>
+            <td>Defines a short inline quotation.</td>
+            <td>It shows this by &lt;q&gt;<q>using quotation marks</q>&lt;/q&gt;</td>
+        </tr>
+        <tr>
+            <td>&lt;rp&gt;</td>
+            <td>Provides fall-back parenthesis for browsers that that don't support ruby annotations.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>&lt;rt&gt;</td>
+            <td>Defines the pronunciation of character presented in a ruby annotations.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>&lt;ruby&gt;</td>
+            <td>Represents a ruby annotation.</td>
+            <td>Used to display east asian characters such as: <br/>
+                <ruby>
+                    &#28450; <rp>(</rp><rt>Kan</rt><rp>)</rp>
+                    &#23383; <rp>(</rp><rt>ji</rt><rp>)</rp>
+                </ruby>    <br/>
+                &lt;ruby&gt;
+                &#28450; &lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;Kan&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
+                &#23383; &lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ji&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;
+                &lt;/ruby&gt;
+            </td>
+        </tr>
+        <tr>
+            <td>&lt;s&gt;</td>
+            <td>Represents contents that are no longer accurate or no longer relevant.</td>
+            <td>Here is some <s>strikethrough</s> text.</td>
+        </tr>
+        <tr>
+            <td>&lt;samp&gt;</td>
+            <td>Specifies text as sample output from a computer program.</td>
+            <td>If the browser display an error message such as "<samp>HTTP 404 - File not found</samp>" you may simply have typed the incorrect url address.</td>
+        </tr>
+        <tr>
+            <td>&lt;small&gt;</td>
+            <td>Displays text in a smaller size.</td>
+            <td>Each time the element is nested the text will get smaller: <br/>
+                It's <small>small <small>smaller <small>smallest</small></small></small>
+            </td>
+        </tr>
+        <tr>
+            <td>&lt;strong&gt;</td>
+            <td>Indicate strongly emphasized text.</td>
+            <td>Usually shows this by making the text bold: <br/>
+                <strong>Warning!</strong> This is <strong>very dangerous</strong>
+            </td>
+        </tr>
+        <tr>
+            <td>&lt;sub&gt;</td>
+            <td>Defines subscripted text.</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>&lt;sup&gt;</td>
+            <td>Defines superscripted text.</td>
+            <td>The equation of mass–energy equivalence is: E=mc&lt;sup&gt;<sup>2</sup>&lt;/sup&gt;</td>
+        </tr>
+        <tr>
+            <td>&lt;u&gt;</td>
+            <td>Displays text with an underline.</td>
+            <td>Here is some &lt;u&gt;<u>underlined text</u>&lt;/u&gt;.</td>
+        </tr>
+        <tr>
+            <td>&lt;var&gt;</td>
+            <td>Defines a variable.</td>
+            <td>used to indicate that the text is an instance of a variable or program argument.<br/>
+                A simple equation: <var>x</var> = <var>y</var> + 2 
+            </td>
+        </tr>
+        <tr>
+            <td>&lt;wbr&gt;</td>
+            <td>Represents a line break opportunity.</td>
+            <td>specifies a position within text where the browser may optionally break a line if necessary: <br/>
+                The XML&lt;wbr&gt;<wbr>Http<wbr>&lt;wbr&gt;Request object is the key to AJAX.
+                </td>
+        </tr>
+
+
+    </table>
+
+
+
+
+
+</body>
+
+
+</html>
