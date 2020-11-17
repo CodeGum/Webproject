@@ -1,0 +1,328 @@
+<!DOCtype html>
+
+<html lang="en">
+
+
+<head>
+	<meta charset="utf-8" />
+	<title>HTML Glossary</title>
+</head>
+
+
+
+
+<body>
+	<h1>Glossary</h1>
+
+
+</br></br>
+
+
+ <table style border="2">
+   <caption><h3> Z18IT Glossary </h3></caption>
+  
+
+   <tr>
+     <th><h3>Word A-Z</h3></th>
+     <th><h3>Definition with Citation & Reference</h3></th>
+     <th><h3>Practical Application of the term/concept</h3></th>
+   </tr>
+  
+ 
+   <tr> 
+    <td> APRANET </td>
+    <td> The Advanced Research Projects Agency Network </br> 
+	 was an experimental computer network, and its </br>
+         initial purpose was to link computers at </br>
+	 pentagon-funded research institutions over </br>
+ 	 telephone lines according to Brittanica. </td>
+    <td> . </td>
+   </tr>
+
+   <tr> 
+    <td> AI </td>
+    <td> Also known as artificial intelligence, it is a rapidly </br> 
+ 	 advancing technology and is possible by the </br> 
+	 internet. According to InternetSociety, AI </br>
+ 	 traditionally refers to an artificial creation of </br>
+	 human-like intelligence that can learn, reason, </br>
+	 plan, perceive, or process natural language. </td>
+    <td> . </td>
+   </tr>  
+
+   <tr> 
+    <td> Browsers and Multimedia </td>
+    <td> According to LibGuides, browsers are described </br>
+	 as a piece of Software that allows a computer to </br>
+	 access and display documents, and more from </br>
+	 the world wide web, such as Mozilla Firefox and </br>
+	 Internet Explorer. </td>
+    <td> . </td>
+   </tr>  
+   
+   <tr> 
+    <td> CSS </td>
+    <td> Abbreviated from Cascading Style Sheets, CSS </br> 
+	 describes how HTML elements are showcased on </br>
+	 screen or in other media according to w3schools. </td>
+    <td>  </td>
+   </tr> 
+
+   <tr> 
+    <td> Domain Name System (DNS) </td>
+    <td> . </td>
+    <td> . </td>
+   </tr> 
+
+   <tr> 
+    <td> Databases </td>
+    <td> . </td>
+    <td> . </td>
+   </tr> 
+
+   <tr> 
+    <td> Extranet </td>
+    <td> . </td>
+    <td> . </td>
+   </tr> 
+
+   <tr> 
+    <td> Email </td>
+    <td> According the Libguides E-Mail is mail that is </br>
+	 electronically transmitted by a computer. E-mail </br>
+	 sends messages instantaneously, anywhere in </br>
+	 the world. </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> File Sharing </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> File Transfer Protocol (FTP) </td>
+    <td> Libguides describe FTB to being the standard </br>
+	 method for downloading and uploading files over </br>
+	 the Internet. </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> HTTP </td>
+    <td> HTTP is abbreviated from Hypertext Transfer </br> 
+	 Protocol. Libguides describe it as the set of rules </br>
+ 	 by which Web pages are transferred across the </br>
+ 	 internet. </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> HTTPS </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> HTML </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> Homepage </td>
+    <td> Libguides describes homepage is the first page </br>
+	 that is viewed when the browser starts. It is </br>
+	 primarily providing introduction. </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> Internet </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> Intranet </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> Internet Governance </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> IP Addresses </td>
+    <td> According to Libguides, each computer on the </br> 
+	 internet can be identified by a set of unique </br>
+	 numbers that is called an internet protocol (IP) </br>
+	 address. </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> Internet Communication Protocols </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> Internet of Things (IoT) </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> Javascipt </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> LAN </td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> Link </td>
+    <td> As libguides describe a Link is underlined words, </br>
+	 phrases or graphics that transport the reader to </br>
+	 additional or related information on the internet. </td>
+    <td> . </td>
+  </tr> 
+
+   <tr> 
+    <td> NSFNET</td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+
+   <tr> 
+    <td> Networking</td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+
+   <tr> 
+    <td> Network Security</td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+
+   <tr> 
+    <td> Network Topology</td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+
+   <tr> 
+    <td> Net Neutrality</td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+
+   <tr> 
+    <td> Privacy and Secuity</td>
+    <td> . </td>
+    <td> . </td>
+  </tr> 
+
+
+   <tr> 
+    <td> Search engine </td>
+    <td> . </td>
+    <td> . </td>
+  </tr>
+
+
+   <tr> 
+    <td> TCP/IP </td>
+    <td> . </td>
+    <td> . </td>
+  </tr>
+
+
+   <tr> 
+    <td> TelNet </td>
+    <td> According to Libguides, TelNet is one of the </br>
+	 oldest Internet activities and is mainly used to </br>
+	 access online databases. </td>
+    <td> . </td>
+  </tr>
+
+
+   <tr> 
+    <td> URL </td>
+    <td> The URL is the address of a computer file that has </br>
+	 been put on a computer server to access the </br>
+	 internet. </td>
+    <td> . </td>
+  </tr>
+
+   <tr> 
+    <td> Virtual Private Network (VPN) </td>
+    <td> . </td>
+    <td> . </td>
+  </tr>
+
+   <tr> 
+    <td> WWW / Website </td>
+    <td> A collection of World Wide Web pages or files. </td>
+    <td> . </td>
+  </tr>
+
+   <tr> 
+    <td> WLAN </td>
+    <td> . </td>
+    <td> . </td>
+  </tr>
+
+   <tr> 
+    <td> Web Browsers </td>
+    <td> . </td>
+    <td> . </td>
+  </tr>
+
+   <tr> 
+    <td> Wireless Communications </td>
+    <td> . </td>
+    <td> . </td>
+  </tr>
+
+   <tr> 
+    <td> Web Page </td>
+    <td> A single hyperlink file or a </br>
+	 page that is part of a website. </td>
+    <td> . </td>
+  </tr>
+
+
+   <tr> 
+    <td> 5G </td>
+    <td> . </td>
+    <td> . </td>
+  </tr>
+
+
+
+
+ </table>
+
+
+
+
+
+</body>
+
+</html>
